@@ -1,0 +1,82 @@
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git init
+Reinitialized existing Git repository in E:/Desin web/Kasber Template two/.git/
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git config --global user.name " faisal khader "
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git config --global user.email " asdasd520029@gmail.com "
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git remote add origin https://github.com/Faisal-Khudir/Kasber-Template-two/commit/a9aebc41274052ce51cc0fbc45929388c37270c8
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$  git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git commit -m " The Desin Web"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Kasbur _ Template two - Google Chrome 2021-07-13 17-55-42.mp4
+        css/
+        imega/
+        indext.html
+        kasbur.css
+        webfonts/
+        "\331\205\330\254\331\204\330\257 \330\254\330\257\331\212\330\257 (2)/"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$  git commit -m " Initial commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Kasbur _ Template two - Google Chrome 2021-07-13 17-55-42.mp4
+        css/
+        imega/
+        indext.html
+        kasbur.css
+        webfonts/
+        "\331\205\330\254\331\204\330\257 \330\254\330\257\331\212\330\257 (2)/"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git log
+fatal: your current branch 'master' does not have any commits yet
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/Faisal-Khudir/Kasber-Template-two/commit/a9aebc41274052ce51cc0fbc45929388c37270c8'
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ branch name instead of master
+bash: branch: command not found
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
+$ git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/Faisal-Khudir/Kasber-Template-two/commit/a9aebc41274052ce51cc0fbc45929388c37270c8'
+
+Mobiz@faisal MINGW64 /e/Desin web/Kasber Template two (master)
